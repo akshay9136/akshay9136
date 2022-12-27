@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akshay
+- 👋 Hi, I’m Akshay, a software engineer
 - 👀 I’m interested in JavaScript and React
 - 🌱 I’m currently learning Functional Programming
 - 💞️ I like to create beautiful things with beautiful code
