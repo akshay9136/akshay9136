@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Akshay, a software engineer
-- 👀 I’m interested in JavaScript and React
-- 🌱 I’m currently learning Functional Programming
+- 👋 Hi, I’m Akshay, a JavaScript developer
+- 👀 I’m interested in Functional Programming
+- 🌱 I’m currently learning :point_up_2:
 - 💞️ I like to create beautiful things with beautiful code
 - 📫 How to reach me: karande.akshay777@gmail.com
 
