@@ -1,8 +1,10 @@
-Hi there 👋 I'm Akshay, a Software Engineer.
+Hi there, I’m Akshay 👋  
 
-My expertise lies in JavaScript and React, but my true passion is Functional Programming. This paradigm resonates with my belief in writing clean, efficient, and maintainable code.
+I’m a Software Engineer who enjoys building clean, simple, and meaningful user experiences on the web. I primarily work with JavaScript and React, with a strong interest in functional programming and writing elegant, maintainable code.
 
-I'm currently working on [SEE Algorithms](https://see-algorithms.com/), a project that merges my love for coding and education. Through this platform, I aim to demystify complex algorithms by transforming them into interactive and intuitive visualizations. My goal is to make learning algorithms not just informative, but also engaging and fun.
+My current focus is [See Algorithms](https://see-algorithms.com/) — a platform that explains algorithms through interactive visualizations to help learners grasp ideas quickly and intuitively.
+
+I believe the best code is not just efficient — it’s simple, elegant, and easy to understand.
 
 Feel free to check out my work and drop me a message on [LinkedIn](https://www.linkedin.com/in/akshay-karande-365604130/). Let's create something amazing together!
 
